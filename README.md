@@ -6,8 +6,47 @@ An AI agent skill that exhaustively evaluates iOS, macOS, tvOS, watchOS, and vis
 
 ## Installation
 
+Install the skill using [skills.sh](https://skills.sh):
+
 ```bash
 npx skills add safaiyeh/app-store-review-skill
+```
+
+This command downloads the skill into your project's `.skills/` directory, making it available to AI coding agents.
+
+## Setup
+
+### Supported AI Agents
+
+This skill works with any AI coding agent that supports the skills.sh standard:
+
+- [Claude Code](https://claude.ai/code)
+- [Cursor](https://cursor.sh)
+- [Windsurf](https://codeium.com/windsurf)
+- And other compatible agents
+
+### How It Works
+
+1. **Install the skill** in your project using the command above
+2. **Start your AI agent** in the project directory
+3. **Ask for an App Store review** - the agent will automatically load relevant guidelines
+4. **Review the findings** - the agent identifies potential rejection issues with code references
+
+### Example Prompts
+
+```
+"Review this app for App Store compliance"
+"Check if my IAP implementation follows Apple's guidelines"
+"Audit the privacy and data collection in this React Native app"
+"What App Store issues might block my submission?"
+```
+
+### Telemetry
+
+The skills CLI collects anonymous usage telemetry. To opt out:
+
+```bash
+SKILLS_NO_TELEMETRY=1 npx skills add safaiyeh/app-store-review-skill
 ```
 
 ## Structure
